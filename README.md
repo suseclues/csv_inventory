@@ -41,7 +41,7 @@ This Python script generates a CSV file containing information about files in a 
 - **File Extension**: Type of file (e.g., txt, csv, pdf).
 - **File Size (in bytes)**: Size of the file in bytes.
 - **Last Modified Time**: Date and time when the file was last modified.
-- **Hash Digest**: Representation of the file's contents for data integrity.
+- **Checksum**: Representation of the file's contents for data integrity.
 
 ## Example
 
